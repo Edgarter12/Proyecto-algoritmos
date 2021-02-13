@@ -18,6 +18,7 @@ public class Algoritmos_Juego {
         // TODO code application logic here
             System.out.println("hola david");
             System.out.println("");
+        System.out.println ("Edgar")
            
     }
     
